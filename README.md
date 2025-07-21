@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Hi there, I'm Zury Guarnizo👋<h1/>
 </div>
-<img src="https://github.com/user-attachments/assets/570dce63-e5e3-4549-b37f-1f492c53ee13" />
+<img src="https://github.com/user-attachments/assets/4eef3b41-015d-4793-9bba-4a705a4a7af4" />
 <!--
 **ZuryGuarnizotech/ZuryGuarnizotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
