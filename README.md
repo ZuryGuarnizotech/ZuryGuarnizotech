@@ -1,5 +1,7 @@
-## Hi there, I'm Zury Guarnizo👋
-
+<div align="center">
+<h1 align="center"> Hi there, I'm Zury Guarnizo👋<h1/>
+</div>
+<img src="https://www.canva.com/design/DAGtzQoVlJM/aJyMM0C3SjEFd0ZNkPTNbg/edit?utm_content=DAGtzQoVlJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 <!--
 **ZuryGuarnizotech/ZuryGuarnizotech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
